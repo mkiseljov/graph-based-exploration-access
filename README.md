@@ -1,6 +1,6 @@
 # graph-based-exploration-access
 
-The code to reproduce "EXPLORATION IN SEQUENTIAL RECOMMENDER SYSTEMS VIA GRAPH REPRESENTATIONS"
+The code to reproduce ["EXPLORATION IN SEQUENTIAL RECOMMENDER SYSTEMS VIA GRAPH REPRESENTATIONS"](https://ieeexplore.ieee.org/document/9963919). Paper is prepared by D.Kiselev and I.Makarov in Artificial Intelligence Research Institure, Moscow, Russia.
 
 The code is based on the original TGN implementation https://github.com/twitter-research/tgn.
 The main contribution lies in the file [decision_module.py](modules/decision_module.py).
